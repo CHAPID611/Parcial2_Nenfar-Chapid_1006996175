@@ -1,0 +1,1 @@
+import './types/parcial2';
