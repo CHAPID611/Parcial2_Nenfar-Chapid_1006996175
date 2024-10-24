@@ -11,3 +11,7 @@ console.log(arrayNum, 'push(6)');
 //1.2
 arrayNum.pop();
 console.log(arrayNum, 'pop(6)');
+
+//1.3
+const indexof = arrayNum.indexOf(3);
+console.log(indexof, 'indexof(3)');
