@@ -15,3 +15,7 @@ console.log(arrayNum, 'pop(6)');
 //1.3
 const indexof = arrayNum.indexOf(3);
 console.log(indexof, 'indexof(3)');
+
+//1.4
+const extraction = arrayNum.slice(1,3);
+console.log(extraction, 'extraction(1,3)');
