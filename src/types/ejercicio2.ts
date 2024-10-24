@@ -8,4 +8,6 @@ tuples=[1,'uno'];
 arrayNum.push(6);
 console.log(arrayNum, 'push(6)');
 
-
+//1.2
+arrayNum.pop();
+console.log(arrayNum, 'pop(6)');
